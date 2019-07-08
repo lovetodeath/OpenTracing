@@ -154,3 +154,5 @@ jaegertracing/example-hotrod:1.6 \
 ### Reference
 [Take OpenTracing for a HotROD ride](https://medium.com/opentracing/take-opentracing-for-a-hotrod-ride-f6e3141f7941)
 
+
+Slack 연동 테스트입니다.
